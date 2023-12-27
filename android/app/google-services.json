@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "301265261005",
+    "project_id": "gidomoa",
+    "storage_bucket": "gidomoa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301265261005:android:a5fa294b1e3f9b0d42f484",
+        "android_client_info": {
+          "package_name": "com.example.gidomoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301265261005-1v8240usg60cdo04c19p1p9pjgo0m1cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gidomoa",
+            "certificate_hash": "033f741d6f970edc8c2099912fcd916404ec7607"
+          }
+        },
+        {
+          "client_id": "301265261005-q1jsl9jeu2evg1mjog1k2es1vg2cnbsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtliHG14W_DFo4mHKANHBqANH58gg12w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301265261005-q1jsl9jeu2evg1mjog1k2es1vg2cnbsf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301265261005-5a99jl3r4q6lko6qt17c9li1mu3mhh3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gidomoa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

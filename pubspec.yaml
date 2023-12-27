@@ -1,0 +1,44 @@
+name: gidomoa
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  firebase_core: ^2.19.0
+  firebase_auth: ^4.11.1
+  google_sign_in: ^6.1.5
+  cloud_firestore: ^4.12.1
+  uuid: ^4.1.0
+  english_words: ^4.0.0
+  animated_text_kit: ^4.2.2
+  nlt_bible: ^0.4.2
+  html: ^0.15.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^2.0.0
+  
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+  fonts:
+  - family: Gugi
+    fonts:
+    - asset: assets/fonts/Gugi-Regular.ttf
+      weight: 400
+  - family: 나눔고딕
+    fonts:
+    - asset: assets/fonts/NanumGothic.ttf
